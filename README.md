@@ -4,7 +4,7 @@
   🌐 Frontend Developer in progress | Passionate about building beautiful and functional websites <br/>
   💻 Skills: HTML - CSS - JavaScript <br/>
   🎯 Currently learning: JavaScript & React.js <br/>
-  📬 Contact me: fatmamo7amed@gmail.com
+  📬 Contact me: Fatmamohamed312005@gmail.com 
 </p>
 
 ---
