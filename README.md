@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋 I'm Fatma Mohamed</h1>
 
-<!--
-**Fatmamo7amed123/Fatmamo7amed123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🌐 Frontend Developer in progress | Passionate about building beautiful and functional websites <br/>
+  💻 Skills: HTML - CSS - JavaScript <br/>
+  🎯 Currently learning: JavaScript & React.js <br/>
+  📬 Contact me: fatmamo7amed@gmail.com
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Projects
+
+- **Portfolio Website** – My personal portfolio with projects and contact info.
+- **To-Do App** – Task manager built with HTML, CSS, and JavaScript.
+- **Weather App** – Uses an API to display current weather data.
+
+---
+
+## 📫 Connect with me
+
+- **Email:** fatmamo7amed@gmail.com
+- *(LinkedIn & Portfolio coming soon)*
